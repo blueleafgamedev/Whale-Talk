@@ -1,3 +1,5 @@
+//JavaScript Syntax II Solution Code for Whale Talk. Use this and learn from it!
+
 let input = 'a whale of a deal!';
 const vowels = ['a', 'e', 'i', 'o', 'u'];
 let resultArray = []
